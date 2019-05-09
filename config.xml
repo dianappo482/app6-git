@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+<?xml version="1.0" encoding="utf-8"?>
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
- xmlns:gap="http://phonegap.com/ns/1.0"
+ xmlns:gap ="http://phonegap.com/ns/1.0"
  id ="com.phonegap.app6"
  version ="1.0.0">
  
- <name> app6 Deslizar hacia la izquierda y a la derecha </name>
+ <name>app6 Deslizar hacia la izquierda y a la derecha </name>
  
  <description>
  Aplicación que realiza el swipe o deslizamiento en el dispositivo
@@ -43,6 +43,4 @@
  <!--Colocar icono app-->
  
  <icon src="res/android/mdpi.png"/>
- 
- 
  </widget>
